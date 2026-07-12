@@ -34,17 +34,17 @@ Eliminate random data spikes permanently. Get the exact physical layout guidelin
 * **Altium & KiCad Artwork Templates:** Production-ready component placement.
 * **Verified Gerber Layouts:** Strict guard rings and ultra-dense MLCC routing strategies.
 * **Signal Validation:** Oscilloscope data sheets mapping signal integrity before and after optimization.
-* 👉 **[Get the Hardware Blueprint on Gumroad ($149)]** *(Input your Gumroad Link Here)*
+* 👉 **[Get the Hardware Blueprint on Gumroad ($149)]** *([Input your Gumroad Link Here](https://qazwxe.gumroad.com/l/ddsrad))*
 
 ### 2️⃣ The 1,000Hz Motion Tracking Masterclass (9-Axis Sensor Fusion)
 Stop struggling with quaternion drift and coordinate transformations at high speed.
 * **Production-Ready Source Code:** Robust 9-Axis IMU sensor fusion.
 * **3D Trajectory Reconstruction:** Complete source code for real-time 3D tracking math.
-* 👉 **[Get the Sensor Fusion Source Codes on Gumroad ($49)]** *(Input your Gumroad Link Here)*
+* 👉 **[Get the Sensor Fusion Source Codes on Gumroad ($49)]** *([Input your Gumroad Link Here](https://qazwxe.gumroad.com/l/xwpfe))*
 
 *💡 Need only specific parts? Check out our budget-friendly guides on Gumroad:*
-* 📦 **[1,000Hz Hardware Blueprint: Guard Rings & MLCC Layout Guide ($29)]** *(Input Link)*
-* 💻 **[The 1,000Hz IMU "Plug & Play" Code Snippets ($19)]** *(Input Link)*
+* 📦 **[1,000Hz Hardware Blueprint: Guard Rings & MLCC Layout Guide ($29)]** *([https://qazwxe.gumroad.com/l/nfktu](https://qazwxe.gumroad.com/l/nfktu))*
+* 💻 **[The 1,000Hz IMU "Plug & Play" Code Snippets ($19)]** *([https://qazwxe.gumroad.com/l/jeuqkk]([https://qazwxe.gumroad.com/l/nfktu](https://qazwxe.gumroad.com/l/jeuqkk)))*
 
 ---
 
