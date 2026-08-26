@@ -48,6 +48,11 @@ Stop struggling with quaternion drift and coordinate transformations at high spe
 
 ---
 
+### 📖 In-Depth Engineering Guides
+Detailed hardware design, sensor fusion math, and field test results are documented on Medium:
+👉 **[Read the Full Engineering Series on Medium](https://medium.com/@CAST9)**
+---
+
 ## 🔧 Quick Start (Demo Setup)
 *(이 자리에 현재 올리실 데모 코드의 간단한 컴파일 방법이나 실행법을 1~2줄 적어주시면 베스트입니다.)*
 1. Clone the repository:
