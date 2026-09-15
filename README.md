@@ -57,14 +57,14 @@ Detailed hardware design, sensor fusion math, and field test results are documen
 ---
 
 ## 🔧 Quick Start
-Clone the repository:
-```bash
+1.Clone the repository:
+
 git clone https://github.com/jaekwang-kim/1000hz-imu-motion-tracking.git
-1. Open imu_1000hz_demo.ino in your Arduino IDE or PlatformIO.
+
+1.Open imu_1000hz_demo.ino in your Arduino IDE or PlatformIO.
 
 2.Select your microcontroller board, verify the I2C/SPI clock speed (400kHz+ recommended), and upload.
 
 📄 License
 MIT License.
-```bash
 git clone [https://github.com/jaekwang-kim/1000hz-imu-motion-tracking.git](https://github.com/jaekwang-kim/1000hz-imu-motion-tracking.git)
